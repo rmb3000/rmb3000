@@ -1,6 +1,6 @@
 Rex M. Burdette, MBA
-Senior Data Analytics Leader | LSS Master Black Belt | Healthcare & Manufacturing
-📍 Jasper, Indiana (Remote) | 📧 rex.burdette@gmail.com | 🔗 LinkedIn
+Hands-On Senior Data & Analytics Leader | LSS Master Black Belt | Principal & Founder, Rex Six Sigma Institute
+📍 Jasper, Indiana (Remote) | 📧 rex@rexsixsigma.com.com | 🔗 www.linkedin.com/in/rexburdette
 
 About Me
 Data analytics professional with 20+ years building enterprise analytics infrastructure, predictive models, and data-driven improvement programs across healthcare and manufacturing. I build the pipelines and dashboards that surface insights — then apply Lean Six Sigma Master Black Belt methodology to turn those insights into measurable business results.
@@ -40,21 +40,26 @@ Implemented real-time SPC controls to sustain savings
 
 Tech: Minitab | SPC | Statistical Capability Analysis | Oracle SQL
 
-Tech Stack
-BI & Visualization
-Show Image
-Show Image
-Languages & Databases
-Show Image
-Show Image
-Show Image
-Data Engineering
-Show Image
-Show Image
-Show Image
-Analytics & ML
-Show Image
-Show Image
+## 🛠️ Tech Stack
+
+**BI & Visualization**
+Power BI (Advanced DAX, Power Query, RLS, Drill-Through) · Tableau · Looker · SSRS · Microsoft Fabric · Excel (Advanced, VBA, Pivot Tables)
+
+**Data Platforms & Engineering**
+Snowflake · Databricks · Microsoft Fabric Lakehouse · Delta Lake · Alteryx · SQL Server · SAP · Oracle · ETL/ELT Pipeline Development · Data Governance (Collibra)
+
+**Languages & Databases**
+SQL (Advanced) · Python (pandas, NumPy, scikit-learn, matplotlib) · R · SAS · Visual Basic/VBA · T-SQL · DAX · Power Query M
+
+**Analytics & Machine Learning**
+Predictive Modeling · Logistic Regression · Classification · Statistical Process Control (SPC) · Process Capability (Cpk) · Hypothesis Testing · DOE · Regression Analysis · Minitab
+
+**Process Improvement & Quality**
+Lean Six Sigma (Master Black Belt) · ASQ Black Belt · ASQ CQE · DMAIC · FMEA · Value Stream Mapping · Kaizen · Hoshin Kanri · ISO 9001 · A3 Problem Solving
+
+**Cloud & DevOps**
+Azure (Microsoft Fabric) · Git / GitHub · CI/CD Pipeline Concepts · Agile / Scrum · MS Project
+
 
 Key Accomplishments
 AchievementImpactPatient no-show prediction model (logistic regression)Reduced rate 18% → 13% — $400K+ savingsEnterprise reporting automation5 days → 2 hours — 160 hrs/month savedPharmacy analytics — 25,000+ ESRD patients$400K documented savingsScrap reduction — 8 manufacturing plants$1.2M annual savingsSupply chain optimization10%+ cost reductionTotal documented savings$6.7M+
@@ -63,6 +68,7 @@ Certifications
 
 🥋 Lean Six Sigma Master Black Belt — IALP (2008)
 🥋 Six Sigma Black Belt — ASQ (2003)
+🥋 Certified Quality Engineer (CQE) — ASQ (2000)
 📚 MBA — Oakland City University (2017)
 🔬 BS Chemistry — Indiana University (1995)
 🔄 Databricks ML Practitioner — In Progress
