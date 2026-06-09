@@ -1,6 +1,6 @@
 Rex M. Burdette, MBA
 Hands-On Senior Data & Analytics Leader | LSS Master Black Belt | Principal & Founder, Rex Six Sigma Institute
-📍 Jasper, Indiana (Remote) | 📧 rex@rexsixsigma.com.com | 🔗 www.linkedin.com/in/rexburdette
+📍 Jasper, Indiana (Remote) | 📧 rex@rexsixsigma.com | 🔗 www.linkedin.com/in/rexburdette
 
 About Me
 Data analytics professional with 20+ years building enterprise analytics infrastructure, predictive models, and data-driven improvement programs across healthcare and manufacturing. I build the pipelines and dashboards that surface insights — then apply Lean Six Sigma Master Black Belt methodology to turn those insights into measurable business results.
