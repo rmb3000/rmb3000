@@ -40,6 +40,18 @@ Implemented real-time SPC controls to sustain savings
 
 Tech: Minitab | SPC | Statistical Capability Analysis | Oracle SQL
 
+## 📁 Portfolio Projects
+Six end-to-end analytics builds — medallion architecture pipelines (Bronze/Silver/Gold) on Databricks and Microsoft Fabric, feeding interactive Power BI and Looker Studio dashboards. Full code, notebooks, and dashboards: **[github.com/rmb3000/Portfolio](https://github.com/rmb3000/Portfolio)**
+
+| Project | Stack | Highlight |
+|---|---|---|
+| 🔮 [Customer Churn Prediction](https://github.com/rmb3000/Portfolio/tree/main/CustomerChurn_Prediction_Lakehouse) | Databricks · scikit-learn · Power BI | Random Forest classifier (0.88 ROC-AUC) scoring 5,000 customers into risk segments |
+| 📈 [FRED Economic Indicators](https://github.com/rmb3000/Portfolio/tree/main/FRED_EconomicIndicators_Lakehouse) | Databricks · Python · Power BI | Live Federal Reserve API ingestion, Dim Date time intelligence, YoY heat map |
+| 🏥 [CMS Hospital Quality](https://github.com/rmb3000/Portfolio/tree/main/CMS_HospitalQuality_Lakehouse) | Databricks · Delta Lake · Power BI | 335 rated U.S. hospitals — quality analytics by type, ownership, and state |
+| 🏥 [CMS Open Payments](https://github.com/rmb3000/Portfolio/tree/main/CMS_OpenPayments_Lakehouse) | Microsoft Fabric · Python · Power BI | 14.7M+ provider payment records — manufacturer, state, and specialty analytics |
+| 🏥 [HEDIS Quality Gap Analysis](https://github.com/rmb3000/Portfolio/tree/main/HEDIS_Lakehouse) | Microsoft Fabric · SQL · Power BI | Care gap tracking across 7 HEDIS measures, provider attribution |
+| 📊 [Workforce Edge Partner Analytics](https://github.com/rmb3000/Portfolio/tree/main/Workforce_Edge_Analytics) | BigQuery · Looker Studio · SQL | Partner enrollment, completion, and retention analytics |
+
 ## 🛠️ Tech Stack
 
 **BI & Visualization**
